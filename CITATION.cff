@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and the software release."
+title: "ikgpc: reproduction code for 'Reinterpreting Indicator Kriging from a Machine Learning Perspective in the Context of Gaussian Process Classification'"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Yupeng
+    affiliation: "Aramco Beijing Research Center, Saudi Aramco"
+  - family-names: You
+    given-names: Jianing
+    affiliation: "Department of Energy Science and Engineering, Stanford University"
+doi: "10.5281/zenodo.24080372"
+url: "https://doi.org/10.5281/zenodo.24080372"
+repository-code: "https://github.com/yupenglee2006-ui/ikgpc-reinterpretation"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24080372"
+    description: "Zenodo archive of this release"
+keywords:
+  - indicator kriging
+  - Gaussian process classification
+  - softmax
+  - Laplace approximation
+  - geostatistics
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Li
+      given-names: Yupeng
+    - family-names: You
+      given-names: Jianing
+  title: "Reinterpreting Indicator Kriging from a Machine Learning Perspective in the Context of Gaussian Process Classification"
+  journal: "Mathematical Geosciences"
+  year: 2026
+  notes: "Revised manuscript under review"
